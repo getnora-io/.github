@@ -1,4 +1,4 @@
-# NORA
+# 🐿️ N○RA
 
 **Your Cloud-Native Artifact Registry**
 
@@ -36,4 +36,4 @@ Open http://localhost:4000/ui/
 
 ---
 
-Organized like a chipmunk's stash | Built with Rust
+🐿️ N○RA - Organized like a chipmunk's stash | Built with Rust
