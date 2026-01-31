@@ -31,7 +31,7 @@ Open http://localhost:4000/ui/
 ## Links
 
 - **Demo:** [demo.getnora.io](https://demo.getnora.io)
-- **Docs:** [GitHub Repository](https://github.com/getnora-io/nora)
+- **Docs:** [getnora.dev](https://getnora.dev)
 - **Telegram:** [@DevITWay](https://t.me/DevITWay)
 
 ---
